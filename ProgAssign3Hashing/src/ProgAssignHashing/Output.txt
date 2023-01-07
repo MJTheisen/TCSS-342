@@ -1,0 +1,5 @@
+Line 1
+Line 2
+[zygote]
+
+I don't know why it only writes the last string in the array and not the whole array...

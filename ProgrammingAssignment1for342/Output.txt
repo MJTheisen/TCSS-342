@@ -1,0 +1,16 @@
+Test1:Input for Encoding
+4w3a1d1e6x
+1d10a3t8a7S2t7r17u1c1t9u30r4e2s1S
+1t1h1i1s1 1i1s1 1a1 1r1e1a2l1y1 1l1o1n1g1 1s1e1n1t1e1n1c1e
+Test2:Input for Decoding
+aaabcccdddaa
+AAAAAAFDDCCCCCCCAEEEEEEEEEEEEEEEEE
+#####!!!%&&******
+Test3:Input for Equality
+true
+false
+false
+true
+
+The size of the LinkedList is 0
+null
